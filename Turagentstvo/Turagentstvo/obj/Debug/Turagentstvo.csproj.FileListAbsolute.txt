@@ -1,0 +1,12 @@
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\bin\Debug\Turagentstvo.exe.config
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\bin\Debug\Turagentstvo.exe
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\bin\Debug\Turagentstvo.pdb
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\obj\Debug\Turagentstvo.csproj.AssemblyReference.cache
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\obj\Debug\Turagentstvo.Form1.resources
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\obj\Debug\Turagentstvo.Form2.resources
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\obj\Debug\Turagentstvo.Properties.Resources.resources
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\obj\Debug\Turagentstvo.csproj.GenerateResource.cache
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\obj\Debug\Turagentstvo.csproj.CoreCompileInputs.cache
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\obj\Debug\Turagentstvo.exe
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\obj\Debug\Turagentstvo.pdb
+C:\Users\molod\Desktop\demoApp\Turagentstvo\Turagentstvo\obj\Debug\Turagentstvo.Form3.resources
